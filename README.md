@@ -1,4 +1,4 @@
-# projeto_desafio_github
+# Desafio de GitHub da Alura
 Projeto criado para participar do desafio Alura de GitHub
 
 <div style="display: inline_block"><br/>
