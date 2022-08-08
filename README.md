@@ -21,3 +21,7 @@ Criado o repositório e adicionado arquivo REAMDE.md
 # Dia 2
 
 Adicionado arquivos HTML, CSS e carregado arquivos de imagens.
+
+# Dia 3
+
+Clonar repositório na maquina local e realizar as alterações por meio de IDE no caso a minha escolha foi o VSCode.
