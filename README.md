@@ -28,8 +28,12 @@ Clonar repositório na maquina local e realizar as alterações por meio de IDE 
 
 # Dia 4
 
- Alterado a imagem título e descrição dos filmes na página index.html e realizado Commit diretamento do VSCode.
+Alterado a imagem título e descrição dos filmes na página index.html e realizado Commit diretamento do VSCode.
 
- # Dia 5
+# Dia 5
 
- Realiza uma alteração no arquivo index.html com erro no código e commita, e depois realiza a reversão do commit para voltar a versão anterior. Neste caso usei a comando "git revert".
+Realiza uma alteração no arquivo index.html com erro no código e commita, e depois realiza a reversão do commit para voltar a versão anterior. Neste caso usei a comando "git revert".
+
+# Dia 6
+
+Simulado um conflito com alterações no mesmo trecho do código via GitHub e via VSCode, e atua na solução do conflito.
