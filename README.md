@@ -37,3 +37,11 @@ Realiza uma alteração no arquivo index.html com erro no código e commita, e d
 # Dia 6
 
 Simulado um conflito com alterações no mesmo trecho do código via GitHub e via VSCode, e atua na solução do conflito.
+
+# Dia 7
+
+Utilizando "pages" do GitHub a página criada neste desafios está no ar visite pelo endereço https://rlvenancio2021.github.io/site/
+
+# Desafio concluído com sucesso
+
+  <img aling="center" alt="GitHub" align="center" width="300" src="https://github.com/Rlvenancio2021/projeto_desafio_github/blob/main/images/octocat-1660165712471.png"/>
