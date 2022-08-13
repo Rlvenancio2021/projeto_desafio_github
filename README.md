@@ -40,7 +40,7 @@ Simulado um conflito com alterações no mesmo trecho do código via GitHub e vi
 
 # Dia 7
 
-Utilizando "pages" do GitHub a página criada neste desafios está no ar visite pelo endereço https://rlvenancio2021.github.io/site/
+Utilizando "pages" do GitHub a página criada neste desafios está no ar visite pelo endereço https://rlvenancio2021.github.io/projeto_desafio_github/
 
 # Desafio concluído com sucesso
 
